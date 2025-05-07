@@ -42,5 +42,7 @@ GPU: NVIDIA GeForce RTX 3050
 ![COCOeval](image/mAP.png)
 ![leaderboard](image/leaderboard.png)
 
+### new mask roi feature
 ![new_mask_roi_feature](image/new_featmap.png)
+### new mask predictor
 ![new_mask_predictor](image/new_mAP.png)
